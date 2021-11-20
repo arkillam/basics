@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+    <jar path="X:/compiled/LineCount.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/basics/LineCounter.jardesc" exportErrors="true" exportWarnings="true" overwrite="false" saveDescription="true" useSourceFolders="false"/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=basics/&lt;ca.thekillams.widgets.tinyapps{JavaLineCounter.java[JavaLineCounter" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/basics/images/icons/text/AlignJustify24.gif"/>
+        <javaElement handleIdentifier="=basics/&lt;ca.thekillams.widgets.utilities{FileUtilities.java"/>
+        <javaElement handleIdentifier="=basics/&lt;ca.thekillams.widgets.tinyapps"/>
+        <file path="/basics/images/icons/general/Open24.gif"/>
+    </selectedElements>
+</jardesc>
